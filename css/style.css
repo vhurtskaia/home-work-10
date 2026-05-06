@@ -62,7 +62,7 @@ nav {
 
 nav a {
     margin-right: 0;
-    font-size: 14px;
+    text-transform: uppercase;
 }
 
 main {
